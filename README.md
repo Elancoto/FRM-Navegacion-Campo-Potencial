@@ -15,3 +15,5 @@ Altura = 55 mm
 
 Posterior a esto se aplica el algoritmo arena2025.m para obtener el mapa de obstáculos como se ve a continuación.
 ![mapa obstaculos](fiugra 1.png)
+
+![image](https://github.com/user-attachments/assets/35937b50-c8d1-415e-9ded-adbe7d0bf2fa)
